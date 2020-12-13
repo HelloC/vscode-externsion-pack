@@ -1,0 +1,16 @@
+{
+    "name": "pack-bash",
+    "displayName": "pack-bash",
+    "description": "bash plugins",
+    "version": "0.0.1",
+    "publisher": "FuGuiVscode",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "mads-hartmann.bash-ide-vscode"
+    ]
+}
