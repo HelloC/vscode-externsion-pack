@@ -1,0 +1,22 @@
+{
+    "name": "pack-base",
+    "displayName": "pack-base",
+    "description": "develope base plugins",
+    "version": "0.0.1",
+    "publisher": "FuGuiVscode",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "christian-kohler.path-intellisense",
+        "CodeInChinese.EnglishChineseDictionary",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "PKief.material-icon-theme",
+        "saekiraku.rainbow-fart",
+        "zhuangtongfa.material-theme"
+    ]
+}
