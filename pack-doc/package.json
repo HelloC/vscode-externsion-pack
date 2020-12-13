@@ -1,0 +1,18 @@
+{
+    "name": "pack-doc",
+    "displayName": "pack-doc",
+    "description": "plugins for doc",
+    "version": "0.0.1",
+    "publisher": "FuGuiVscode",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bierner.markdown-emoji",
+        "hediet.vscode-drawio",
+        "shd101wyy.markdown-preview-enhanced"
+    ]
+}
