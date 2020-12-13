@@ -1,0 +1,21 @@
+{
+    "name": "pack-python",
+    "displayName": "pack-python",
+    "description": "python plugins",
+    "version": "0.0.1",
+    "publisher": "FuGuiVscode",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "donjayamanne.python-extension-pack",
+        "frhtylcn.pythonsnippets",
+        "KevinRose.vsc-python-indent",
+        "magicstack.MagicPython",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}
