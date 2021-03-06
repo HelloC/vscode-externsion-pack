@@ -12,11 +12,7 @@
     ],
     "extensionPack": [
         "christian-kohler.path-intellisense",
-        "CodeInChinese.EnglishChineseDictionary",
-        "codezombiech.gitignore",
-        "eamodio.gitlens",
         "PKief.material-icon-theme",
-        "saekiraku.rainbow-fart",
         "zhuangtongfa.material-theme"
     ]
 }

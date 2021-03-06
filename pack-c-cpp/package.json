@@ -35,6 +35,8 @@
         "rsbondi.highlight-words",
         "TabNine.tabnine-vscode",
         "vincaslt.highlight-matching-tag",
-        "ypresto.vscode-intelli-refactor"
+        "ypresto.vscode-intelli-refactor",
+        "codezombiech.gitignore",
+        "eamodio.gitlens"
     ]
 }

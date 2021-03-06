@@ -12,7 +12,6 @@
     ],
     "extensionPack": [
         "bierner.markdown-emoji",
-        "hediet.vscode-drawio",
         "shd101wyy.markdown-preview-enhanced"
     ]
 }
